@@ -1,5 +1,14 @@
-.social-btn {
-	color: #898989;
-	width: 100px;
-	height: 50px;
+h1 {
+	color: red;
+}
+
+a.btn.social-btn {
+  position: fixed;
+  top: 3px;
+  left: 500px;
+  text-align: center;
+  background-color: blue;
+  color: white;
+  font: sans-serif;
+  font-size: 9px
 }
