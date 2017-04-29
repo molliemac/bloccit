@@ -29,3 +29,5 @@
  gem 'turbolinks'
  # Bootsrap adds a framework and provides layouts for our views
  gem 'bootstrap-sass'
+ # Used for encrypting User passwords
+ gem 'bcrypt'
